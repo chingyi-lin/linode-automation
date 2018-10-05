@@ -3,7 +3,7 @@
 ## Installation
 1. Prepare a server to install Salt
 2. On the server, run this command to install salt
-``
+```
 curl -L https://bootstrap.saltstack.com -o install_salt.sh
 sudo sh install_salt.sh -P -M
 ```
