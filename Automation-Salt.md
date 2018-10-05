@@ -1,4 +1,4 @@
-# 
+# Linode Automation by Using API and StackScript
 
 ## Installation
 1. Prepare a server to install Salt
@@ -10,6 +10,7 @@ sudo sh install_salt.sh -P -M
 3. Install Salt Cloud
 `sudo apt-get install salt-cloud`
 
+## Configuration
 4. Config cloud provider profile (Reference Document: [Core Configuration](https://docs.saltstack.com/en/latest/topics/cloud/config.html#linode)):
 `cd /etc/salt/cloud.providers.d`
 ```
