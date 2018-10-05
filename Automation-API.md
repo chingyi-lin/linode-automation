@@ -2,6 +2,7 @@
 
 ## Prerequisite
 * Install [jq](https://stedolan.github.io/jq/) to parse API's JSON response.
+You can install via homebrew:
 `brew install jq`
 
 ## Workthrough
