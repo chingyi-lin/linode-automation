@@ -1,10 +1,10 @@
 # Linode Automation by Using API and StackScript
 
-# Prerequisite
+## Prerequisite
 * Install [jq](https://stedolan.github.io/jq/) to parse API's JSON response.
 `brew install jq`
 
-# Workthrough
+## Workthrough
 1. Obtain API key from [Linode Manager](https://cloud.linode.com/profile/tokens)
 2. Choose “Add a Personal Access Token”
 3. Using shell to test the api
